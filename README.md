@@ -1,4 +1,4 @@
-# 🛒 DOM Create & Delete Project
+# DOM Create & Delete Project
 
 ## Overview
 In this assignment, you will create the JavaScript for a simple shopping list application.  
